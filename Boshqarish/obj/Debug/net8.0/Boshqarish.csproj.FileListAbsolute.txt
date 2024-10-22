@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\bin\Debug\net8.0\Boshqarish.exe
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\bin\Debug\net8.0\Boshqarish.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\bin\Debug\net8.0\Boshqarish.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\bin\Debug\net8.0\Boshqarish.dll
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\bin\Debug\net8.0\Boshqarish.pdb
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\Boshqarish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\Boshqarish.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\Boshqarish.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\Boshqarish.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\Boshqarish.dll
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\refint\Boshqarish.dll
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\Boshqarish.pdb
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\Boshqarish.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Boshqarish\obj\Debug\net8.0\ref\Boshqarish.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\Bron_kino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\Bron_kino.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\Bron_kino.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\Bron_kino.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\bin\Debug\net8.0\Bron_kino.exe
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\bin\Debug\net8.0\Bron_kino.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\bin\Debug\net8.0\Bron_kino.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\bin\Debug\net8.0\Bron_kino.dll
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\bin\Debug\net8.0\Bron_kino.pdb
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\Bron_kino.dll
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\refint\Bron_kino.dll
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\Bron_kino.pdb
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\Bron_kino.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Bron_kino\obj\Debug\net8.0\ref\Bron_kino.dll
