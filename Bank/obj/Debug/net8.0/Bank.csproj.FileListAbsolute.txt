@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bank\bin\Debug\net8.0\Bank.exe
+C:\Users\user\Desktop\Bank\bin\Debug\net8.0\Bank.deps.json
+C:\Users\user\Desktop\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+C:\Users\user\Desktop\Bank\bin\Debug\net8.0\Bank.dll
+C:\Users\user\Desktop\Bank\bin\Debug\net8.0\Bank.pdb
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\Bank.dll
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\refint\Bank.dll
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\Bank.pdb
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+C:\Users\user\Desktop\Bank\obj\Debug\net8.0\ref\Bank.dll

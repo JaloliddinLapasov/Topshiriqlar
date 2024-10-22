@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\bin\Debug\net8.0\Ob-havo.exe
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\bin\Debug\net8.0\Ob-havo.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\bin\Debug\net8.0\Ob-havo.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\bin\Debug\net8.0\Ob-havo.dll
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\bin\Debug\net8.0\Ob-havo.pdb
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\Ob-havo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\Ob-havo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\Ob-havo.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\Ob-havo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\Ob-havo.dll
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\refint\Ob-havo.dll
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\Ob-havo.pdb
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\Ob-havo.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Ob-havo\obj\Debug\net8.0\ref\Ob-havo.dll

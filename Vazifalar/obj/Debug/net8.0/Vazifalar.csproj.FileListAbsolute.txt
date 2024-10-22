@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\Vazifalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\Vazifalar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\Vazifalar.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\Vazifalar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\bin\Debug\net8.0\Vazifalar.exe
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\bin\Debug\net8.0\Vazifalar.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\bin\Debug\net8.0\Vazifalar.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\bin\Debug\net8.0\Vazifalar.dll
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\bin\Debug\net8.0\Vazifalar.pdb
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\Vazifalar.dll
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\refint\Vazifalar.dll
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\Vazifalar.pdb
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\Vazifalar.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Vazifalar\obj\Debug\net8.0\ref\Vazifalar.dll

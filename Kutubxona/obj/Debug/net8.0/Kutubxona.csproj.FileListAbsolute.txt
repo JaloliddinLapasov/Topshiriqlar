@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\bin\Debug\net8.0\Kutubxona.exe
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\bin\Debug\net8.0\Kutubxona.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\bin\Debug\net8.0\Kutubxona.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\bin\Debug\net8.0\Kutubxona.dll
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\bin\Debug\net8.0\Kutubxona.pdb
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\Kutubxona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\Kutubxona.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\Kutubxona.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\Kutubxona.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\Kutubxona.dll
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\refint\Kutubxona.dll
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\Kutubxona.pdb
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\Kutubxona.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Kutubxona\obj\Debug\net8.0\ref\Kutubxona.dll

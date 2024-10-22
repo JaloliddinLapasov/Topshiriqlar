@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Maosh\bin\Debug\net8.0\Maosh.exe
+C:\Users\user\Desktop\Topshiriqlar\Maosh\bin\Debug\net8.0\Maosh.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Maosh\bin\Debug\net8.0\Maosh.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Maosh\bin\Debug\net8.0\Maosh.dll
+C:\Users\user\Desktop\Topshiriqlar\Maosh\bin\Debug\net8.0\Maosh.pdb
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\Maosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\Maosh.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\Maosh.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\Maosh.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\Maosh.dll
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\refint\Maosh.dll
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\Maosh.pdb
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\Maosh.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Maosh\obj\Debug\net8.0\ref\Maosh.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\bin\Debug\net8.0\Attandencs.exe
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\bin\Debug\net8.0\Attandencs.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\bin\Debug\net8.0\Attandencs.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\bin\Debug\net8.0\Attandencs.dll
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\bin\Debug\net8.0\Attandencs.pdb
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\Attandencs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\Attandencs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\Attandencs.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\Attandencs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\Attandencs.dll
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\refint\Attandencs.dll
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\Attandencs.pdb
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\Attandencs.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Attandencs\obj\Debug\net8.0\ref\Attandencs.dll

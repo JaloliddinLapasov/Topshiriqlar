@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Saylov\bin\Debug\net8.0\Saylov.exe
+C:\Users\user\Desktop\Topshiriqlar\Saylov\bin\Debug\net8.0\Saylov.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Saylov\bin\Debug\net8.0\Saylov.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Saylov\bin\Debug\net8.0\Saylov.dll
+C:\Users\user\Desktop\Topshiriqlar\Saylov\bin\Debug\net8.0\Saylov.pdb
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\Saylov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\Saylov.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\Saylov.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\Saylov.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\Saylov.dll
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\refint\Saylov.dll
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\Saylov.pdb
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\Saylov.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Saylov\obj\Debug\net8.0\ref\Saylov.dll

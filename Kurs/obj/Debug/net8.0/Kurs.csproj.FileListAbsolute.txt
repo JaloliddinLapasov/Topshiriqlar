@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Kurs\bin\Debug\net8.0\Kurs.exe
+C:\Users\user\Desktop\Topshiriqlar\Kurs\bin\Debug\net8.0\Kurs.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Kurs\bin\Debug\net8.0\Kurs.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Kurs\bin\Debug\net8.0\Kurs.dll
+C:\Users\user\Desktop\Topshiriqlar\Kurs\bin\Debug\net8.0\Kurs.pdb
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\Kurs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\Kurs.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\Kurs.dll
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\refint\Kurs.dll
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\Kurs.pdb
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\Kurs.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Kurs\obj\Debug\net8.0\ref\Kurs.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\dars\bin\Debug\net8.0\dars.exe
+C:\Users\user\Desktop\Topshiriqlar\dars\bin\Debug\net8.0\dars.deps.json
+C:\Users\user\Desktop\Topshiriqlar\dars\bin\Debug\net8.0\dars.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\dars\bin\Debug\net8.0\dars.dll
+C:\Users\user\Desktop\Topshiriqlar\dars\bin\Debug\net8.0\dars.pdb
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\dars.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\dars.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\dars.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\dars.dll
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\refint\dars.dll
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\dars.pdb
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\dars.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\dars\obj\Debug\net8.0\ref\dars.dll

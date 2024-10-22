@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\bin\Debug\net8.0\Jurnal.exe
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\bin\Debug\net8.0\Jurnal.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\bin\Debug\net8.0\Jurnal.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\bin\Debug\net8.0\Jurnal.dll
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\bin\Debug\net8.0\Jurnal.pdb
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\Jurnal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\Jurnal.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\Jurnal.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\Jurnal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\Jurnal.dll
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\refint\Jurnal.dll
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\Jurnal.pdb
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\Jurnal.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Jurnal\obj\Debug\net8.0\ref\Jurnal.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\mashq\bin\Debug\net8.0\mashq.exe
+C:\Users\user\Desktop\Topshiriqlar\mashq\bin\Debug\net8.0\mashq.deps.json
+C:\Users\user\Desktop\Topshiriqlar\mashq\bin\Debug\net8.0\mashq.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\mashq\bin\Debug\net8.0\mashq.dll
+C:\Users\user\Desktop\Topshiriqlar\mashq\bin\Debug\net8.0\mashq.pdb
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\mashq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\mashq.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\mashq.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\mashq.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\mashq.dll
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\refint\mashq.dll
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\mashq.pdb
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\mashq.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\mashq\obj\Debug\net8.0\ref\mashq.dll

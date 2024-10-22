@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\bin\Debug\net8.0\Mehmonxona.exe
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\bin\Debug\net8.0\Mehmonxona.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\bin\Debug\net8.0\Mehmonxona.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\bin\Debug\net8.0\Mehmonxona.dll
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\bin\Debug\net8.0\Mehmonxona.pdb
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\Mehmonxona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\Mehmonxona.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\Mehmonxona.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\Mehmonxona.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\Mehmonxona.dll
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\refint\Mehmonxona.dll
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\Mehmonxona.pdb
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\Mehmonxona.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Mehmonxona\obj\Debug\net8.0\ref\Mehmonxona.dll

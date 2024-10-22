@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\Viktorin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\Viktorin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\Viktorin.AssemblyInfo.cs
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\Viktorin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\bin\Debug\net8.0\Viktorin.exe
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\bin\Debug\net8.0\Viktorin.deps.json
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\bin\Debug\net8.0\Viktorin.runtimeconfig.json
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\bin\Debug\net8.0\Viktorin.dll
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\bin\Debug\net8.0\Viktorin.pdb
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\Viktorin.dll
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\refint\Viktorin.dll
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\Viktorin.pdb
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\Viktorin.genruntimeconfig.cache
+C:\Users\user\Desktop\Topshiriqlar\Viktorina\obj\Debug\net8.0\ref\Viktorin.dll
